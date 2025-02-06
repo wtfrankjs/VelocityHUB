@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/wtfrank1/velocityhub/ConfigManager.java;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/src/main/java/com/wtfrank1/velocityhub/DynamicCommand.java;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/src/main/java/com/wtfrank1/velocityhub/EventListener.java;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/src/main/java/com/wtfrank1/velocityhub/Main.java;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/src/main/java/com/wtfrank1/velocityhub/ReloadCommand.java;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/src/resources/velocity-plugin.json;C:/Users/HP/OneDrive/Masaüstü/VelocityHub/VelocityHUB/pom.xml" />
+  </component>
+</project>

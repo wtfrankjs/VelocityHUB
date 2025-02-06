@@ -1,0 +1,36 @@
+prefix: "&6[VelocityHub]&r "
+messages:
+  command.disabled: "&cThis command is disabled."
+  command.no_permission: "&cYou do not have permission to use this command."
+  command.player_only: "&cThis command can only be run by a player."
+  command.server_not_found: "&cTarget server not found."
+  admin.no_permission: "&cYou do not have permission to execute this command."
+  config.reloaded: "&aConfiguration reloaded successfully!"
+  success: "&aSuccessfully connected to the {server} server!"
+  blocked: "&cThis command is blocked in this world or server!"
+  error: "&cAn error occurred. Please try again later!"
+commands:
+  hub:
+    server: "lobby"
+    enabled: true
+    permission: "velocityhub.command.hub"
+    blocked-worlds:
+      - "nether"
+      - "end"
+    blocked-servers:
+      - "creative"
+  survival:
+    server: "survival"
+    enabled: true
+    permission: "velocityhub.command.survival"
+    blocked-worlds:
+      - "test_world"
+    blocked-servers:
+      - "lobby"
+general:
+  blocked-commands:
+    - "/op"
+    - "/reload"
+  blocked-worlds:
+    - "restricted_world"
+  admin.permission: "velocityhub.admin.bypass"

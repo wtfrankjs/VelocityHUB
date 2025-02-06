@@ -1,0 +1,9 @@
+{
+  "id": "VelocityHub",
+  "name": "VelocityHub",
+  "version": "1.0",
+  "authors": ["wtfrankjs"],
+  "main": "com.wtfrank1.velocityhub.Main",
+  "description": "A plugin that handles hub commands for Velocity and BungeeCord.",
+  "dependencies": []
+}

@@ -1,0 +1,12 @@
+name: VelocityHub
+main: com.wtfrank1.velocityhub.Main
+version: 1.0
+author: wtfrankjs
+commands:
+  hub:
+    description: Sends the player to the hub server.
+    usage: /hub
+permissions:
+  velocityhub.use:
+    description: Allows access to hub command.
+    default: true

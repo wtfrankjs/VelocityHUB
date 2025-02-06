@@ -31,8 +31,12 @@ If a command is set and player has permission, the plugin will send the player t
 
 ## Commands:
 exmaple: /hub: Teleports the player to the hub server.
+
 /vhreload: Reloads the VelocityHub plugin configuration.
-Permissions
+
+## Permissions
 velocityhub.use: Grants access to the commands.
+
 velocityhub.reload: Grants access to the /vhreload command.
+
 velocityhub.admin: Grants access to administrative commands and features.

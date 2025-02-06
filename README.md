@@ -6,7 +6,7 @@ Extract and put VHUBBridge into your Spigot/Bukkit Server's plugins folder.
 ## Description
 VelocityHub is a Minecraft plugin designed to seamlessly manage server commands and teleportation within a Velocity proxy network. This plugin enables smooth communication between the Spigot server and the Velocity proxy, allowing commands to be executed on the proxy based on the player’s current world.
 
-##Features:
+## Features:
 Server Teleportation: Seamlessly transfers players between servers in the Velocity proxy network.
 Server Blocking: Prevents commands from executing if the player is in a blocked server, ensuring controlled access.
 Permission Control: Ensures only authorized users can execute specific commands or access designated servers.
